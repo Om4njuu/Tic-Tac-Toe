@@ -21,7 +21,7 @@ To get started with the Tic-Tac-Toe game locally, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/om4njuu/tic-tac-toe.git
+   git clone https://github.com/Om4njuu/tic-tac-toe.git
 
 2. **Navigate to the Project Directory**:
     ```bash
