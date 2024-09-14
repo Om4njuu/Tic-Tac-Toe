@@ -37,9 +37,9 @@ To get started with the Tic-Tac-Toe game locally, follow these steps:
 4. Click the "Restart Game" button to start a new round.
    
 ## Technologies Used
-JavaScript: Handles game logic, such as detecting wins and handling player turns.
-HTML: Provides the structure for the game board and UI elements.
-CSS: Adds styling to make the game visually appealing and responsive.
+- **JavaScript**: Handles game logic, such as detecting wins and handling player turns.
+- **HTML**: Provides the structure for the game board and UI elements.
+- **CSS**: Adds styling to make the game visually appealing and responsive.
 
 ## Contributing
 Contributions are welcome! If you have ideas for new features or improvements, feel free to open an issue or submit a pull request. Any suggestions to make the code cleaner or the gameplay smoother are appreciated.
