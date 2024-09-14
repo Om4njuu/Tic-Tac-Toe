@@ -15,7 +15,7 @@ h1 {
 
 .game-container {
     display: flex;
-    flex-direction: column;
+    flex-direction: column; /* This ensures the title is on top */
     align-items: center;
 }
 
@@ -24,6 +24,7 @@ h1 {
     grid-template-columns: repeat(3, 100px);
     grid-template-rows: repeat(3, 100px);
     gap: 5px;
+    margin-bottom: 20px; /* Add margin to separate from the title */
 }
 
 .cell {
@@ -43,7 +44,6 @@ h1 {
 }
 
 .game-info {
-    margin-top: 20px;
     text-align: center;
 }
 
