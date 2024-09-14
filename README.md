@@ -44,9 +44,8 @@ To get started with the Tic-Tac-Toe game locally, follow these steps:
 ## Contributing
 Contributions are welcome! If you have ideas for new features or improvements, feel free to open an issue or submit a pull request. Any suggestions to make the code cleaner or the gameplay smoother are appreciated.
 
-##License
+## License
 This project is licensed under the MIT License. Feel free to use and modify the code as you see fit.
 
-##Acknowledgements
-Inspired by the classic Tic-Tac-Toe game.
-Thanks to MDN Web Docs for the great JavaScript resources and documentation.
+## Acknowledgements
+Inspired by the classic Tic-Tac-Toe game. Thanks to MDN Web Docs for the great JavaScript resources and documentation.
