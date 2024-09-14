@@ -23,25 +23,25 @@ To get started with the Tic-Tac-Toe game locally, follow these steps:
    ```bash
    git clone https://github.com/your-github-username/tic-tac-toe.git
 
-2.Navigate to the Project Directory:
+2. **Navigate to the Project Directory**:
     ```bash
     cd tic-tac-toe
 
-3. Open the index.html File:
+3. **Open the index.html File**:
    Open index.html in your preferred web browser to start playing the game.
    
-##Usage
+## Usage
 1. Open the game in your browser.
 2. Players take turns clicking on an empty cell to place their mark (X or O).
 3. The game detects when a player wins or when it ends in a draw, displaying a corresponding message.
 4. Click the "Restart Game" button to start a new round.
    
-##Technologies Used
+## Technologies Used
 JavaScript: Handles game logic, such as detecting wins and handling player turns.
 HTML: Provides the structure for the game board and UI elements.
 CSS: Adds styling to make the game visually appealing and responsive.
 
-##Contributing
+## Contributing
 Contributions are welcome! If you have ideas for new features or improvements, feel free to open an issue or submit a pull request. Any suggestions to make the code cleaner or the gameplay smoother are appreciated.
 
 ##License
